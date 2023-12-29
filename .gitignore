@@ -1,0 +1,7 @@
+# Directory
+/node_modules
+/build
+/coverage
+
+# Environment
+.env

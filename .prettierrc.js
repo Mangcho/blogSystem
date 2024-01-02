@@ -1,9 +1,7 @@
-const config = {
-  trailingComma: "es6",
+module.exports = {
+  trailingComma: "es5",
   useTabs: false,
   tabWidth: 4,
   semi: true,
   singleQuote: true,
 };
-
-export default config;
